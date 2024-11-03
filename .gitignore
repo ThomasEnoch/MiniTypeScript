@@ -2,3 +2,4 @@
 # IDEs and editors
 .idea/
 mini-typescript-compiler.iml
+.xml
